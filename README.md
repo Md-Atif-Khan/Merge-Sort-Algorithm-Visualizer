@@ -1,9 +1,10 @@
 All files are located under /src/SortingVisualizer and /src/sortingAlgorithms. 
 The SortingVisualizer component is imported and rendered in App.js.
+It is made using HTML, React, CSS, JavaScript, JavaScript React, Bootstrap .
 
-This application aims to visualize how Merge Sort algorithm works by changing the color each time during comparison.
-
-It is made using HTML, React, CSS, JavaScript, JavaScript React, Bootstrap 
+This application aims to visualize how Merge Sort algorithm works by changing the color each time during comparison to dark red.
+Number of elements in array = 280 (taken so as to fit in a single window without scroll (window resolution = 1920 X 1080).
+Animation speed = 3ms.
 
 In the project directory, you can run:
 
