@@ -6,8 +6,9 @@ This application aims to visualize how Merge Sort algorithm works by changing th
 Number of elements in array = 280 (taken so as to fit in a single window without scroll (window resolution = 1920 X 1080).
 Animation speed = 3ms.
 
-In the project directory, you can run:
-
+In the project directory, you can run by:
+1)Open the directory in your code editor
+2)In the terminal hit the below command:
 ### `npm start`
 
 Runs the app in the development mode.\
