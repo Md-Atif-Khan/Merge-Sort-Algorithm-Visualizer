@@ -85,10 +85,10 @@ export default class SortingVisualizer extends React.Component {
               height: `${value}px`,
             }}></div>
         ))}
-        <div class="btn-group" role="group" aria-label="Basic example">
-          <button type="button" class="btn btn-primary" onClick={() => this.resetArray()}>Generate New Array</button>
-          <button type="button" class="btn btn-primary" onClick={() => this.mergeSort()}>Merge Sort</button>
-          {/* <button type="button" class="btn btn-primary"> Test Sorting Algorithms (BROKEN)</button> */}
+        <div className="btn-group" role="group" aria-label="Basic example">
+          <button type="button" className="btn btn-primary" onClick={() => this.resetArray()}>Generate New Array</button>
+          <button type="button" className="btn btn-primary" onClick={() => this.mergeSort()}>Merge Sort</button>
+          {/* <button type="button" className="btn btn-primary"> Test Sorting Algorithms (BROKEN)</button> */}
         </div>
       </div>
     );
